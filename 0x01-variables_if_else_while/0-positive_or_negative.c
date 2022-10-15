@@ -2,7 +2,15 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - entry point
+ *
+ * Description: print whether the number stored 
+ * in the variable n is positive or negative
+ *
+ * Return: 0
+ */
+
 int main(void)
 {
 	int n;
