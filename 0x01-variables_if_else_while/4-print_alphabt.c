@@ -3,9 +3,7 @@
 /**
  * main - entry point
  *
- * Description: prints the alphabet in lowercase,
- * and then in uppercase,
- * followed by a new line
+ * Description: prints all the letters except q and e
  *
  * Return: 0
  */
@@ -13,17 +11,12 @@
 int main(void)
 {
 	char alpha = 'a';
-	char ALPHA = 'A';
 
 	while (alpha <= 'z')
 	{
+		if (alpha != 'q' && alpha != 'e')
 		putchar(alpha);
 		++alpha;
-	}
-	while (ALPHA <= 'Z')
-	{
-		putchar(ALPHA);
-		++ALPHA;
 	}
 	putchar('\n');
 	return (0);
