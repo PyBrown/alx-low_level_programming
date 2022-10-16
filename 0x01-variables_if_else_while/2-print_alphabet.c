@@ -14,8 +14,10 @@ int main(void)
 	char aplha = 'a';
 
 	while (alpha <= 'z')
+	{
 		putchar(alpha);
 		++alpha;
+	}
 	putchar('\n');
 	return (0);
 }
