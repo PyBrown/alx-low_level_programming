@@ -3,7 +3,8 @@
 /**
  * main - entry point
  *
- * Description: prints all possible different combinations of two two-digits numbers
+ * Description: prints all possible different
+ * combinations of two two-digits numbers
  *
  * Return: 0
  */
