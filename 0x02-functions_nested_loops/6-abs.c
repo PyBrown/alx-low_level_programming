@@ -2,6 +2,7 @@
 
 /**
  * _abs - entry point
+ * @n: integer to evaluate
  *
  * Description: computes the absolute value of an integer
  *

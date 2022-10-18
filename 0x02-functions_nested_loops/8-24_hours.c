@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** jack_bauer - entry point
+/**
+ * jack_bauer - entry point
  *
  * Description: prints every minute of
  * the day of Jack Bauer,
