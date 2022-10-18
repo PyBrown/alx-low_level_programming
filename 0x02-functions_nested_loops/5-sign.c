@@ -2,7 +2,7 @@
 
 /**
  * print_sign - entry point
- *
+ * @n: the integer to make absolute
  * Description: prints the sign of a number
  *
  * Return: 1 and prints + if n is greater than zero

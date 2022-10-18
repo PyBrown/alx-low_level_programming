@@ -2,6 +2,7 @@
 
 /**
  * print_last_digit - entry point
+ * @n: the number to evaluate
  *
  * Description: prints the last digit of a number
  *
@@ -15,5 +16,5 @@ int print_last_digit(int n)
 	if (n < 0)
 		n = -n;
 	_putchar(n + '0');
-	return (0)
+	return (0);
 }
