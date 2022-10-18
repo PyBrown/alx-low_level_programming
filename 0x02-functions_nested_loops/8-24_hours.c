@@ -5,7 +5,7 @@
  *
  * Description: prints every minute of
  * the day of Jack Bauer,
- * 
+ *
  * Retrun: 0
  */
 
