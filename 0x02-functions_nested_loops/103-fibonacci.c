@@ -4,8 +4,8 @@
  * main - entry point
  *
  * Description: finds and prints the sum of the
- * 		even-valued terms in the Fibonacci sequence
- * 		whose values do not exceed 4 million
+ *		even-valued terms in the Fibonacci sequence
+ *		whose values do not exceed 4 million
  *
  * Return: 0
  */

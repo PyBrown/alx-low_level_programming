@@ -28,8 +28,8 @@ int numLength(int num)
  * main - entry point
  *
  * Description: finds and prints the first
- * 		98 Fibonacci numbers, starting with 1 and 2
- * 		ref. Nobert Patrick Wise (github: Trikcode)
+ *		98 Fibonacci numbers, starting with 1 and 2
+ *		ref. Nobert Patrick Wise (github: Trikcode)
  *
  * Return: 0
  */
