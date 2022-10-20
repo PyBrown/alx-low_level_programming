@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - entry point
- *
- * Description: tests function
+ * main - tests function
  *
  * Return: 0
  */
